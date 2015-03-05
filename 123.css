@@ -1,1 +1,44 @@
 
+header{
+    text-align:center;
+    background:#A6FA6F;
+  }
+aside{
+    text-align: center;
+    background: #0080FF;
+}
+  article {
+    float:left; 
+    width:595px;
+    margin:5px;
+    padding-left:5px;
+    text-align:center;
+    background:#7BE7BE;
+  }
+section {
+    float:right;
+    margin:10px auto;
+    width:1250px;
+    background:#000000
+  }
+  section h1{
+    color: #E0D8E0;
+    text-align: center;
+    
+  }
+footer{
+    clear: both;
+    background: yellow;
+    height: 15px;
+    padding: 10px;
+}
+footer h1{
+    color: black;
+    text-align: right;
+    font-size: 14px;
+}
+nav{
+    background: #FF8000;
+    width: 300px;
+    float: left;
+}
