@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Лаб1</title>
+<title>Видео блог</title>
 <meta charset="utf8">
- <link rel="stylesheet" type="text/css" href="styles/123.css">
+ <link rel="stylesheet" type="text/css" href="123.css">
 
 </head>
 
@@ -48,7 +48,7 @@
 
 
 <footer>
-        <h1>Футер</h1>
+        <h1>2015 ИТАС Видео блог</h1>
 </footer>
 </body>
 
